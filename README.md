@@ -1,2 +1,2 @@
 # CursoIngresoJS-UTN-Ejercicios
-JS
+## JS - Ejercicios
